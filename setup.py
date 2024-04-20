@@ -16,5 +16,5 @@ setup(
         'numpy',  # Example dependency
     ],
     include_package_data=True,  # Include non-code files from MANIFEST.in
-    python_requires='>=3.9',  # Minimum Python version required
+    python_requires='>=3.8',  # Minimum Python version required
 )

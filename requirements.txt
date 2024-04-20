@@ -1,1 +1,4 @@
 numpy
+setuptools
+wheel
+twine
